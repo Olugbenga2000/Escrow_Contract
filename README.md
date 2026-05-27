@@ -36,7 +36,7 @@ acts as mediator in the event of a dispute or unresolved escrow.
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd escrow-foundry
+cd Escrow_Contract
 
 # Install dependencies
 forge install OpenZeppelin/openzeppelin-contracts
